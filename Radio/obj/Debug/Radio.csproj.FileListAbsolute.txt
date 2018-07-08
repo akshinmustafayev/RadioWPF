@@ -1,0 +1,17 @@
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.csprojResolveAssemblyReference.cache
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\App.g.cs
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio_MarkupCompile.cache
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\MainWindow.baml
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\MainWindow.g.cs
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.g.resources
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.Properties.Resources.resources
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.csproj.GenerateResource.Cache
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\bin\Debug\Radio.exe
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\bin\Debug\Radio.pdb
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.exe
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.pdb
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Styles\VS2012WindowStyle.baml
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\App.baml
+c:\users\акшин\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Styles\VS2012WindowStyle.g.cs
+D:\AKSHIN\Programs\MyPrograms\RadioWPF\Radio\obj\Debug\Radio.exe
+D:\AKSHIN\Programs\MyPrograms\RadioWPF\Radio\obj\Debug\Radio.pdb
